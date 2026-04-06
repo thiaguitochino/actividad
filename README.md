@@ -12,4 +12,4 @@ df = pd.read_csv('StudentsPerformance.csv')
 print(df[['gender']].head(12))
 
 
-mostrar las columnas gender y maxcore. mostrar el tioo de dato de la columna gender. mostrar si hay filas o oclumnas vaiacs. mostrar la cacntidad de filas y columnas que tinnee,. mostrar las uktimas 5 filas 
+mostrar las columnas gender y maxcore. mostrar el tioo de dato de la columna gender. mostrar si hay filas o oclumnas vaiacs. mostrar la cacntidad de filas y columnas que tinnee,. mostrar las uktimas 5 filas abrir el csv mostrar las uktimas 3 columnas mostrar las 100 primeras filas mostrar la cantidad de la primera columna mostras mostrar si hay filas vacias mostrar los diferentes tipo de dato de la columna
